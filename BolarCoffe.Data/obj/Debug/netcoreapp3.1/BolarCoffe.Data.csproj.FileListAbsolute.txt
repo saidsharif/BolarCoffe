@@ -1,0 +1,5 @@
+D:\ImportPractice\MyProjects\WesdoyleFullstackVue\BolarCoffe\BolarCoffe.Data\bin\Debug\netcoreapp3.1\BolarCoffe.Data.deps.json
+D:\ImportPractice\MyProjects\WesdoyleFullstackVue\BolarCoffe\BolarCoffe.Data\bin\Debug\netcoreapp3.1\BolarCoffe.Data.dll
+D:\ImportPractice\MyProjects\WesdoyleFullstackVue\BolarCoffe\BolarCoffe.Data\obj\Debug\netcoreapp3.1\BolarCoffe.Data.csprojAssemblyReference.cache
+D:\ImportPractice\MyProjects\WesdoyleFullstackVue\BolarCoffe\BolarCoffe.Data\obj\Debug\netcoreapp3.1\BolarCoffe.Data.AssemblyInfoInputs.cache
+D:\ImportPractice\MyProjects\WesdoyleFullstackVue\BolarCoffe\BolarCoffe.Data\obj\Debug\netcoreapp3.1\BolarCoffe.Data.AssemblyInfo.cs
