@@ -1,12 +1,12 @@
 D:\ImportPractice\MyProjects\WesdoyleFullstackVue\BolarCoffe\BolarCoffe.Services\bin\Debug\netcoreapp3.1\BolarCoffe.Services.deps.json
 D:\ImportPractice\MyProjects\WesdoyleFullstackVue\BolarCoffe\BolarCoffe.Services\bin\Debug\netcoreapp3.1\BolarCoffe.Services.dll
 D:\ImportPractice\MyProjects\WesdoyleFullstackVue\BolarCoffe\BolarCoffe.Services\bin\Debug\netcoreapp3.1\BolarCoffe.Services.pdb
+D:\ImportPractice\MyProjects\WesdoyleFullstackVue\BolarCoffe\BolarCoffe.Services\bin\Debug\netcoreapp3.1\BolarCoffe.Data.dll
+D:\ImportPractice\MyProjects\WesdoyleFullstackVue\BolarCoffe\BolarCoffe.Services\bin\Debug\netcoreapp3.1\BolarCoffe.Data.pdb
 D:\ImportPractice\MyProjects\WesdoyleFullstackVue\BolarCoffe\BolarCoffe.Services\obj\Debug\netcoreapp3.1\BolarCoffe.Services.csprojAssemblyReference.cache
 D:\ImportPractice\MyProjects\WesdoyleFullstackVue\BolarCoffe\BolarCoffe.Services\obj\Debug\netcoreapp3.1\BolarCoffe.Services.AssemblyInfoInputs.cache
 D:\ImportPractice\MyProjects\WesdoyleFullstackVue\BolarCoffe\BolarCoffe.Services\obj\Debug\netcoreapp3.1\BolarCoffe.Services.AssemblyInfo.cs
 D:\ImportPractice\MyProjects\WesdoyleFullstackVue\BolarCoffe\BolarCoffe.Services\obj\Debug\netcoreapp3.1\BolarCoffe.Services.csproj.CoreCompileInputs.cache
+D:\ImportPractice\MyProjects\WesdoyleFullstackVue\BolarCoffe\BolarCoffe.Services\obj\Debug\netcoreapp3.1\BolarCoffe.Services.csproj.CopyComplete
 D:\ImportPractice\MyProjects\WesdoyleFullstackVue\BolarCoffe\BolarCoffe.Services\obj\Debug\netcoreapp3.1\BolarCoffe.Services.dll
 D:\ImportPractice\MyProjects\WesdoyleFullstackVue\BolarCoffe\BolarCoffe.Services\obj\Debug\netcoreapp3.1\BolarCoffe.Services.pdb
-D:\ImportPractice\MyProjects\WesdoyleFullstackVue\BolarCoffe\BolarCoffe.Services\bin\Debug\netcoreapp3.1\BolarCoffe.Data.dll
-D:\ImportPractice\MyProjects\WesdoyleFullstackVue\BolarCoffe\BolarCoffe.Services\bin\Debug\netcoreapp3.1\BolarCoffe.Data.pdb
-D:\ImportPractice\MyProjects\WesdoyleFullstackVue\BolarCoffe\BolarCoffe.Services\obj\Debug\netcoreapp3.1\BolarCoffe.Services.csproj.CopyComplete

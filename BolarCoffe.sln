@@ -1,15 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26124.0
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BolarCoffe.Data", "BolarCoffe.Data\BolarCoffe.Data.csproj", "{B4DF7C45-86AD-4FF2-914C-4749BA6BEFAE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BolarCoffe.Data", "BolarCoffe.Data\BolarCoffe.Data.csproj", "{B4DF7C45-86AD-4FF2-914C-4749BA6BEFAE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BolarCoffe.Services", "BolarCoffe.Services\BolarCoffe.Services.csproj", "{A096A00D-4EF7-41FE-B87E-9D65352D006C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BolarCoffe.Services", "BolarCoffe.Services\BolarCoffe.Services.csproj", "{A096A00D-4EF7-41FE-B87E-9D65352D006C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BolarCoffe.Test", "BolarCoffe.Test\BolarCoffe.Test.csproj", "{EFBDE055-666D-4045-A239-5D717B7991F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BolarCoffe.Test", "BolarCoffe.Test\BolarCoffe.Test.csproj", "{EFBDE055-666D-4045-A239-5D717B7991F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BolarCoffe.web", "BolarCoffe.web\BolarCoffe.web.csproj", "{D15A570F-8DC2-4B2E-9E5B-113B6FFBC930}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BolarCoffe.web", "BolarCoffe.web\BolarCoffe.web.csproj", "{D15A570F-8DC2-4B2E-9E5B-113B6FFBC930}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,9 +19,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 		Release|x64 = Release|x64
 		Release|x86 = Release|x86
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{B4DF7C45-86AD-4FF2-914C-4749BA6BEFAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -72,5 +69,11 @@ Global
 		{D15A570F-8DC2-4B2E-9E5B-113B6FFBC930}.Release|x64.Build.0 = Release|Any CPU
 		{D15A570F-8DC2-4B2E-9E5B-113B6FFBC930}.Release|x86.ActiveCfg = Release|Any CPU
 		{D15A570F-8DC2-4B2E-9E5B-113B6FFBC930}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CCFBB7C-CC10-419D-87D4-BF70C29314D7}
 	EndGlobalSection
 EndGlobal

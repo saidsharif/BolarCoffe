@@ -1,4 +1,5 @@
 ﻿using BolarCoffe.Services.Product;
+using BolarCoffe.web.Serialization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
@@ -43,14 +44,15 @@ namespace BolarCoffe.web.Controllers
         /// </summary>
         /// <returns></returns>
         [HttpGet("/api/product")]
-        //public ActionResult GetProduct()
-        //{
-        //    _logger.LogInformation("Getting all products");
-        //    var products = _productService.GetAllProducts();
-        //    var productViewModels = products
-        //        .Select(ProductMapper.SerializeProductModel);
-        //    return Ok(productViewModels);
-        //}
+        public ActionResult GetProduct()
+        {
+            _logger.LogInformation("Getting all products");
+            var products = _productService.GetAllProducts();
+            // return Ok(products);
+            var productViewModels = products
+                .Select(ProductMapper.SerializeProductModel);
+            return Ok(productViewModels);
+        }
 
         /// <summary>
         /// Archives an existing product
