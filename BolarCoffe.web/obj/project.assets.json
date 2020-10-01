@@ -839,6 +839,19 @@
         "runtime": {
           "bin/placeholder/BolarCoffe.Data.dll": {}
         }
+      },
+      "BolarCoffe.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "BolarCoffe.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BolarCoffe.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BolarCoffe.Services.dll": {}
+        }
       }
     }
   },
@@ -2187,11 +2200,17 @@
       "type": "project",
       "path": "../BolarCoffe.Data/BolarCoffe.Data.csproj",
       "msbuildProject": "../BolarCoffe.Data/BolarCoffe.Data.csproj"
+    },
+    "BolarCoffe.Services/1.0.0": {
+      "type": "project",
+      "path": "../BolarCoffe.Services/BolarCoffe.Services.csproj",
+      "msbuildProject": "../BolarCoffe.Services/BolarCoffe.Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "BolarCoffe.Data >= 1.0.0",
+      "BolarCoffe.Services >= 1.0.0",
       "Microsoft.AspNetCore.Mvc.NewtonsoftJson >= 3.1.8",
       "Microsoft.EntityFrameworkCore >= 3.1.8",
       "Microsoft.EntityFrameworkCore.Design >= 3.1.8",
@@ -2227,6 +2246,9 @@
           "projectReferences": {
             "D:\\ImportPractice\\MyProjects\\WesdoyleFullstackVue\\BolarCoffe\\BolarCoffe.Data\\BolarCoffe.Data.csproj": {
               "projectPath": "D:\\ImportPractice\\MyProjects\\WesdoyleFullstackVue\\BolarCoffe\\BolarCoffe.Data\\BolarCoffe.Data.csproj"
+            },
+            "D:\\ImportPractice\\MyProjects\\WesdoyleFullstackVue\\BolarCoffe\\BolarCoffe.Services\\BolarCoffe.Services.csproj": {
+              "projectPath": "D:\\ImportPractice\\MyProjects\\WesdoyleFullstackVue\\BolarCoffe\\BolarCoffe.Services\\BolarCoffe.Services.csproj"
             }
           }
         }

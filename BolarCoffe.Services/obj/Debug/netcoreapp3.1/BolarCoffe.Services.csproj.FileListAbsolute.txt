@@ -7,3 +7,6 @@ D:\ImportPractice\MyProjects\WesdoyleFullstackVue\BolarCoffe\BolarCoffe.Services
 D:\ImportPractice\MyProjects\WesdoyleFullstackVue\BolarCoffe\BolarCoffe.Services\obj\Debug\netcoreapp3.1\BolarCoffe.Services.csproj.CoreCompileInputs.cache
 D:\ImportPractice\MyProjects\WesdoyleFullstackVue\BolarCoffe\BolarCoffe.Services\obj\Debug\netcoreapp3.1\BolarCoffe.Services.dll
 D:\ImportPractice\MyProjects\WesdoyleFullstackVue\BolarCoffe\BolarCoffe.Services\obj\Debug\netcoreapp3.1\BolarCoffe.Services.pdb
+D:\ImportPractice\MyProjects\WesdoyleFullstackVue\BolarCoffe\BolarCoffe.Services\bin\Debug\netcoreapp3.1\BolarCoffe.Data.dll
+D:\ImportPractice\MyProjects\WesdoyleFullstackVue\BolarCoffe\BolarCoffe.Services\bin\Debug\netcoreapp3.1\BolarCoffe.Data.pdb
+D:\ImportPractice\MyProjects\WesdoyleFullstackVue\BolarCoffe\BolarCoffe.Services\obj\Debug\netcoreapp3.1\BolarCoffe.Services.csproj.CopyComplete

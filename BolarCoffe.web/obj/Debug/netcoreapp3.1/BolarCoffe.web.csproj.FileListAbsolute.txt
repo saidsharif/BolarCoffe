@@ -51,3 +51,5 @@ D:\ImportPractice\MyProjects\WesdoyleFullstackVue\BolarCoffe\BolarCoffe.web\bin\
 D:\ImportPractice\MyProjects\WesdoyleFullstackVue\BolarCoffe\BolarCoffe.web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
 D:\ImportPractice\MyProjects\WesdoyleFullstackVue\BolarCoffe\BolarCoffe.web\bin\Debug\netcoreapp3.1\BolarCoffe.Data.pdb
 D:\ImportPractice\MyProjects\WesdoyleFullstackVue\BolarCoffe\BolarCoffe.web\obj\Debug\netcoreapp3.1\BolarCoffe.web.csproj.CopyComplete
+D:\ImportPractice\MyProjects\WesdoyleFullstackVue\BolarCoffe\BolarCoffe.web\bin\Debug\netcoreapp3.1\BolarCoffe.Services.dll
+D:\ImportPractice\MyProjects\WesdoyleFullstackVue\BolarCoffe\BolarCoffe.web\bin\Debug\netcoreapp3.1\BolarCoffe.Services.pdb

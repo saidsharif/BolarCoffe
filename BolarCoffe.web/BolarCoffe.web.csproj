@@ -20,6 +20,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\BolarCoffe.Data\BolarCoffe.Data.csproj" />
+    <ProjectReference Include="..\BolarCoffe.Services\BolarCoffe.Services.csproj" />
   </ItemGroup>
 
 
