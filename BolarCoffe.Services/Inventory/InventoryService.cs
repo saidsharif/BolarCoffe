@@ -8,6 +8,7 @@ using BolarCoffe.Data.Models;
 
 
 namespace BolarCoffe.Services.Inventory {
+  
     public class InventoryService : IInventoryService {
         private readonly SolarDbContext _db;
         private readonly ILogger<InventoryService> _logger;
@@ -84,6 +85,7 @@ namespace BolarCoffe.Services.Inventory {
                 .Include(pi => pi.Product)
                 .FirstOrDefault(pi => pi.Product.Id == productId);
         }
+        
 
         /// <summary>
         /// Return Snapshot history for the previous 6 hours

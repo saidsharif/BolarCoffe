@@ -14,6 +14,9 @@ using Microsoft.Extensions.Logging;
 using BolarCoffe.Data;
 using Microsoft.EntityFrameworkCore;
 using BolarCoffe.Services.Product;
+using BolarCoffe.Services.Customer;
+using BolarCoffe.Services.Inventory;
+using BolarCoffe.Services.Order;
 
 namespace BolarCoffe.web
 {
@@ -36,7 +39,11 @@ namespace BolarCoffe.web
                    opts.UseNpgsql(Configuration.GetConnectionString("solar.dev"));
                });
             services.AddTransient<IProductService, ProductService>();
-            
+            services.AddTransient<ICustomerService, CustomerService>();
+            services.AddTransient<IInventoryService, InventoryService>();
+            services.AddTransient<IOrderService, OrderService>();
+
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

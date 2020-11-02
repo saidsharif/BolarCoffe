@@ -24,7 +24,7 @@ namespace BolarCoffe.Services.Order {
             ) {
             _db = db;
             _logger = logger;
-            _productService = productService;
+            _productService = productService;  
             _inventoryService = inventoryService;
         }
         
