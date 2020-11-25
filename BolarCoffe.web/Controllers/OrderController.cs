@@ -1,5 +1,6 @@
 ﻿using BolarCoffe.Services.Customer;
 using BolarCoffe.Services.Order;
+using BolarCoffe.web.Serialization;
 using BolarCoffe.web.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;

@@ -52,6 +52,7 @@ namespace BolarCoffe.web.Controllers
             var productViewModels = products
                 .Select(ProductMapper.SerializeProductModel);
             return Ok(productViewModels);
+            
         }
 
         /// <summary>

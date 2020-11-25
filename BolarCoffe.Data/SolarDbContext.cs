@@ -13,6 +13,8 @@ namespace BolarCoffe.Data
 
         public SolarDbContext(DbContextOptions options) : base(options) { }
 
+        //by these virtual dbset declaration we are creating table in database and then working with these.
+
         public virtual DbSet<Customer> Customers { get; set; }
         public virtual DbSet<CustomerAddress> CustomerAddresses { get; set; }
         public virtual DbSet<Product> Products { get; set; }

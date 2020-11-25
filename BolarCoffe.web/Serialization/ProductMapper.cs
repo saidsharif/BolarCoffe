@@ -19,7 +19,7 @@ namespace BolarCoffe.web.Serialization
             {
                 Id = product.Id,
                 CreatedOn = product.CreatedOn,
-                UpdatedOn = product.CreatedOn,
+                UpdatedOn = product.UpdatedOn,
                 Price = product.Price,
                 Name = product.Name,
                 Description = product.Description,
