@@ -36,10 +36,10 @@ namespace BolarCoffe.web.Serialization
         {
             return new Customer
             {
-                CreatedOn = customer.CreatedOn,
-                UpdatedOn = customer.UpdatedOn,
                 FirstName = customer.FirstName,
                 LastName = customer.LastName,
+                CreatedOn = customer.CreatedOn,
+                UpdatedOn = customer.UpdatedOn,
                 PrimaryAddress = MapCustomerAddress(customer.PrimaryAddress),
             };
         }
